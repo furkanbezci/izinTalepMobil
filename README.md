@@ -12,6 +12,8 @@ Giriş işlemi veya kayıt işleminden sonra ekranda Personel Ekleme ve Personel
 Personel kendi ekranında bu değişimi görebiliyor. (Bu da useEffect ile sağlanmakta)
 Özetle uygulamanın yaptığı işlem bu şekilde.
 
+Tek yapmanız gereken npm install deyip uygulamayı çalıştırmak.
+
 ![3](https://user-images.githubusercontent.com/72627004/107119818-0ea75900-689b-11eb-88c2-e6c635e0a143.JPG)   ![2](https://user-images.githubusercontent.com/72627004/107119823-12d37680-689b-11eb-8ab0-8d44f602f625.JPG)   ![4](https://user-images.githubusercontent.com/72627004/107119820-11a24980-689b-11eb-9590-972786078151.JPG)   ![Capture](https://user-images.githubusercontent.com/72627004/107119822-123ae000-689b-11eb-89f1-a4d92bc111b7.JPG) ![5](https://user-images.githubusercontent.com/72627004/107119913-9beaad80-689b-11eb-9932-69adc5b21e8c.JPG)
 
 
